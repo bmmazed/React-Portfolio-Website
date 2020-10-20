@@ -1,0 +1,18 @@
+.progress-area {
+  width: 100%;
+  height: auto;
+  background-color: #fefcff;
+  margin-top: 3vh;
+}
+.progreHeading {
+  text-align: center;
+  margin-bottom: 3vh;
+}
+.col1 {
+  text-align: right;
+  font-weight: bold;
+}
+
+.col2 {
+  padding: 3.8vh;
+}
